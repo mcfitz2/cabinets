@@ -32,7 +32,7 @@ cabinets:
         quantity: 4
         thickness: 6
       drawer-front:
-        width: 396
+        width: 600
         length: 96
         quantity: 4
         thickness: 12 
@@ -69,7 +69,7 @@ cabinets:
         quantity: 2
         thickness: 6
       drawer-front:
-        width: 396
+        width: 600
         length: 196
         quantity: 2
         thickness: 12
@@ -105,23 +105,23 @@ cabinets:
         length: 580
         quantity: 3
         thickness: 6
-      drawer-f-t:
-        width: 396
+      drawer-front-t:
+        width: 600
         length: 196
         quantity: 1
         thickness: 12  
-      drawer-fb-s:
+      drawer-front-back-s:
         width: 556
         length: 80
         quantity: 4
         thickness: 12
-      drawer-s-s:
+      drawer-side-s:
         width: 584
         length: 80
         quantity: 4
         thickness: 12
-      drawer-f-s:
-        width: 396
+      drawer-front-s:
+        width: 600
         length: 96
         quantity: 2
         thickness: 12       
