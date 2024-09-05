@@ -1,0 +1,201 @@
+cabinets:
+  std-d4:
+    parts:
+      side:
+        width: 400
+        length: 605
+        quantity: 2
+        thickness: 18
+      top-bottom:
+        width: 605
+        length: 641
+        quantity: 2
+        thickness: 18
+      back:
+        width: 641
+        length: 436
+        quantity: 1
+        thickness: 18
+      drawer-front-back:
+        width: 556
+        length: 80
+        quantity: 8
+        thickness: 12
+      drawer-side:
+        width: 584
+        length: 80
+        quantity: 8
+        thickness: 12
+      drawer-bottom:
+        width: 584
+        length: 580
+        quantity: 4
+        thickness: 6
+      drawer-front:
+        width: 396
+        length: 96
+        quantity: 4
+        thickness: 12 
+  std-d2:
+    parts:
+      side:
+        width: 400
+        length: 605
+        quantity: 2
+        thickness: 18
+      top-bottom:
+        width: 605
+        length: 641
+        quantity: 2
+        thickness: 18
+      back:
+        width: 641
+        length: 436
+        quantity: 1
+        thickness: 18
+      drawer-front-back:
+        width: 556
+        length: 180
+        quantity: 4
+        thickness: 12
+      drawer-side:
+        width: 584
+        length: 180
+        quantity: 4
+        thickness: 12
+      drawer-bottom:
+        width: 584
+        length: 580
+        quantity: 2
+        thickness: 6
+      drawer-front:
+        width: 396
+        length: 196
+        quantity: 2
+        thickness: 12
+  s12:
+    parts:
+      side:
+        width: 400
+        length: 605
+        quantity: 2
+        thickness: 18
+      top-bottom:
+        width: 605
+        length: 641
+        quantity: 2
+        thickness: 18
+      back:
+        width: 641
+        length: 436
+        quantity: 1
+        thickness: 18
+      drawer-fb-t:
+        width: 556
+        length: 180
+        quantity: 2
+        thickness: 12
+      drawer-s-t:
+        width: 584
+        length: 180
+        quantity: 2
+        thickness: 12
+      drawer-bot:
+        width: 584
+        length: 580
+        quantity: 3
+        thickness: 6
+      drawer-f-t:
+        width: 396
+        length: 196
+        quantity: 1
+        thickness: 12  
+      drawer-fb-s:
+        width: 556
+        length: 80
+        quantity: 4
+        thickness: 12
+      drawer-s-s:
+        width: 584
+        length: 80
+        quantity: 4
+        thickness: 12
+      drawer-f-s:
+        width: 396
+        length: 96
+        quantity: 2
+        thickness: 12       
+  std-door:
+    parts:
+      side:
+        width: 400
+        length: 605
+        quantity: 2
+        thickness: 18
+      top-bottom:
+        width: 605
+        length: 641
+        quantity: 2
+        thickness: 18
+      back:
+        width: 641
+        length: 436
+        quantity: 1
+        thickness: 18
+      door:
+        width: 600
+        length: 395
+        quantity: 1
+        thickness: 18 
+  purse-box:
+    parts: 
+      side: 
+        width: 384
+        length: 354
+        quantity: 2
+        thickness: 12
+
+      top-bottom:
+        width: 384
+        length: 460
+        quantity: 2
+        thickness: 12
+
+      back:
+        width: 330
+        length: 460
+        quantity: 1
+        thickness: 12
+
+      door:
+        width: 456
+        length: 326
+        quantity: 1
+        thickness: 12
+
+  hat-box:
+    parts: 
+      side: 
+        width: 430
+        length: 846
+        quantity: 2
+        thickness: 12
+      top-bottom:
+        width: 526
+        length: 430
+        quantity: 2
+        thickness: 12
+      shelf:
+        width: 526
+        length: 424
+        quantity: 5
+        thickness: 12
+      back:
+        thickness: 6
+        width: 550
+        length: 846
+        quantity: 1
+
+todo:
+    - validate drawer false fronts width
+    - validate drawer fronts size
